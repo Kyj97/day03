@@ -9,11 +9,11 @@ print(song.replace(' m', ' M'))
 #song2 = song.replace(song[idx], song[idx].upper())
 #print(song2.endswith('moray!'))
 
-song_list = song.split()
-print(song_list)
-song_list[14] = song_list[14].title()
-song_string = ' '.join(song_list)
-print(song_string)
+# song_list = song.split()
+# print(song_list)
+# song_list[14] = song_list[14].title()
+# song_string = ' '.join(song_list)
+# print(song_string)
 
 
 #5.2
@@ -59,10 +59,8 @@ Sincerely,
 {job_title}"""
 
 #5.5
+print(letter.format(salutation='aa', name='me', product='mouse', verbed='is', room='bang', animals='cats', amount='bb', percent='40', spokesman='cc', job_title='backsu'))
 
-
-
-print(letter)
 
 #5.6
 duck = 'duck'
