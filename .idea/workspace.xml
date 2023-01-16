@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c1f8e64-4938-4ad7-8563-140180f8b6f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day01_01_temperature.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day01_02_countdown.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day01_03_dictionary.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day01_04_gui.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day03_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03_homework.py" afterDir="false" />
     </list>
